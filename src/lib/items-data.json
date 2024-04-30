@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "name": "Spaghetti Carbonara",
+      "image_url": "https://images.unsplash.com/photo-1473093226795-af9932fe5856?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8cmVzdGF1cmFudCUyMGl0ZW1zJTIwZm9vZHN8ZW58MHx8MHx8fDA%3D",
+      "price": 12.99
+    },
+    {
+      "id": 2,
+      "name": "Chicken Alfredo",
+      "image_url": "https://images.pexels.com/photos/2059151/pexels-photo-2059151.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "price": 14.99
+    },
+    {
+      "id": 3,
+      "name": "Margherita Pizza",
+      "image_url": "https://images.pexels.com/photos/2673353/pexels-photo-2673353.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "price": 10.99
+    },
+    {
+      "id": 4,
+      "name": "Caesar Salad",
+      "image_url": "https://images.pexels.com/photos/4061475/pexels-photo-4061475.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "price": 8.99
+    },
+    {
+      "id": 5,
+      "name": "Sushi Platter",
+      "image_url": "https://images.pexels.com/photos/341045/pexels-photo-341045.png?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "price": 18.99
+    },
+    {
+      "id": 6,
+      "name": "Hamburger",
+      "image_url": "https://images.pexels.com/photos/2741458/pexels-photo-2741458.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "price": 9.99
+    },
+    {
+      "id": 7,
+      "name": "Pad Thai",
+      "image_url": "https://images.pexels.com/photos/5191846/pexels-photo-5191846.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "price": 11.99
+    },
+    {
+      "id": 8,
+      "name": "Steak",
+      "image_url": "https://images.pexels.com/photos/262945/pexels-photo-262945.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "price": 22.99
+    },
+    {
+      "id": 9,
+      "name": "Tacos",
+      "image_url": "https://images.pexels.com/photos/11374421/pexels-photo-11374421.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "price": 10.99
+    },
+    {
+      "id": 10,
+      "name": "Chicken Tikka Masala",
+      "image_url": "https://images.unsplash.com/photo-1473093226795-af9932fe5856?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8cmVzdGF1cmFudCUyMGl0ZW1zJTIwZm9vZHN8ZW58MHx8MHx8fDA%3D",
+      "price": 13.99
+    },
+    {
+      "id": 11,
+      "name": "Lasagna",
+      "image_url": "https://images.pexels.com/photos/2059151/pexels-photo-2059151.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "price": 15.99
+    },
+    {
+      "id": 12,
+      "name": "Pho",
+      "image_url": "https://images.pexels.com/photos/2673353/pexels-photo-2673353.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "price": 9.99
+    },
+    {
+      "id": 13,
+      "name": "Mushroom Risotto",
+      "image_url": "https://images.pexels.com/photos/4061475/pexels-photo-4061475.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "price": 11.99
+    },
+    {
+      "id": 14,
+      "name": "Beef Stir-Fry",
+      "image_url": "https://images.pexels.com/photos/341045/pexels-photo-341045.png?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "price": 14.99
+    },
+    {
+      "id": 15,
+      "name": "Chicken Caesar Wrap",
+      "image_url": "https://images.pexels.com/photos/2741458/pexels-photo-2741458.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "price": 8.99
+    },
+    {
+      "id": 16,
+      "name": "Caprese Salad",
+      "image_url": "https://images.pexels.com/photos/5191846/pexels-photo-5191846.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "price": 7.99
+    },
+    {
+      "id": 17,
+      "name": "Shrimp Scampi",
+      "image_url": "https://images.pexels.com/photos/262945/pexels-photo-262945.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "price": 17.99
+    },
+    {
+      "id": 18,
+      "name": "Fish and Chips",
+      "image_url": "https://images.pexels.com/photos/11374421/pexels-photo-11374421.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "price": 12.99
+    },
+    {
+      "id": 19,
+      "name": "Beef Burrito",
+      "image_url": "https://images.unsplash.com/photo-1473093226795-af9932fe5856?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8cmVzdGF1cmFudCUyMGl0ZW1zJTIwZm9vZHN8ZW58MHx8MHx8fDA%3D",
+      "price": 10.99
+    },
+    {
+      "id": 20,
+      "name": "Vegetable Stir-Fry",
+      "image_url": "https://images.pexels.com/photos/341045/pexels-photo-341045.png?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "price": 9.99
+    }
+  ]
+}

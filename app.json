@@ -1,6 +1,6 @@
 {
   "expo": {
-    "name": "uber-eats",
+    "name": "Uber Eats",
     "slug": "uber-eats",
     "version": "1.0.0",
     "orientation": "portrait",
@@ -11,13 +11,13 @@
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
-    "assetBundlePatterns": [
-      "**/*"
-    ],
+    "assetBundlePatterns": ["**/*"],
     "ios": {
-      "supportsTablet": true
+      "supportsTablet": true,
+      "bundleIdentifier": "com.abdelfatahashour.ubereats"
     },
     "android": {
+      "package": "com.abdelfatahashour.ubereats",
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
@@ -25,6 +25,9 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "experiments": {
+      "tsconfigPaths": true
     }
   }
 }
